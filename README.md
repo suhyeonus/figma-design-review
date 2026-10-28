@@ -24,7 +24,7 @@
 git clone https://github.com/suhyeonus/figma-design-review.git ~/.claude/skills/figma-design-review
 ```
 
-private 저장소라 clone할 때 GitHub 인증이 필요하다(`gh auth login` 또는 SSH 키). 다음 세션부터 `/figma-design-review`로 쓸 수 있다.
+다음 세션부터 `/figma-design-review`로 쓸 수 있다.
 
 특정 프로젝트에만 쓰려면 그 프로젝트의 `.claude/skills/figma-design-review`에 clone한다. 그 프로젝트 저장소에 커밋되지 않게 `.gitignore`를 확인한다.
 
